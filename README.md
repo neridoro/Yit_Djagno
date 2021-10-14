@@ -1,14 +1,16 @@
-# Django_project
+#Yit_Django
 
 A django project with register,login and homepage.
 
 # Deployment
-download the Django_project and un zip it.
+download the Yit_Django and un zip it.
 
-open cmd use the command ```cd "path to project"\Django_project-main```
+open cmd use the command ```cd "path to project"\Yit_Django-main```
+
+it is recommended to create a virtualenv and use it with the command ```python -m venv "name of env"```
 
 use virtualenv with the command
-```workproject-env\Scripts\activate.bat```
+```name of env\Scripts\activate.bat```
 
 move to the site folder using the command ```cd mysite```
 

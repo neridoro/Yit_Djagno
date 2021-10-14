@@ -1,4 +1,4 @@
-#Yit_Django
+# Yit_Django
 
 A django project with register,login and homepage.
 

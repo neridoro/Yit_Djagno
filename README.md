@@ -14,6 +14,8 @@ use virtualenv with the command
 
 move to the site folder using the command ```cd mysite```
 
+pip install the needed models using the command ```pip install .```
+
 migrate the project with the command ```python manage.py migrate```
 
 now that the data base is all set up run the command ```python manage.py runserver```
